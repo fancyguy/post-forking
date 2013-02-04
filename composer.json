@@ -3,7 +3,7 @@
 	"description": "WordPress Plugin for post forking functionality.",
 	"type": "wordpress-plugin",
 	"require": {
-		"composer/installers": "*",
+		"composer/installers": "*"
 	}
 }
 
